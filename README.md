@@ -114,9 +114,9 @@ For a detailed guide on using the web dashboard and additional configurations, r
 
 ---
 
-## MIT License (Modified)  
+## MIT License (Modified)
 
-Copyright (c) 2025 Ahsan Latif  
+Copyright (c) 2025 Ahsan Latif (@GittyCandy)
 
 Permission is hereby granted, free of charge, to University of Wollongong, the supervising professor, and authorized academic staff to use, review, and evaluate this project **strictly for educational and grading purposes**.  
 
@@ -124,8 +124,9 @@ Any **redistribution, modification, reproduction, or use** of this code **by una
 
 This project and its source code **may not be used for commercial purposes, personal projects, or external publications** without prior approval from the original author.  
 
-THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.  
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.
 
+**The copyright notice must be kept intact on all files and not removed.**
 
 
 ---
